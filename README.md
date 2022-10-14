@@ -68,14 +68,12 @@
 
 ### My Github Status:
 
+<p>
 <a href="https://github.com/mukulsomukesh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulsomukesh&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Mukul Jatav github status" /></a>
 
----
+<a href="https://github.com/mukulsomukesh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulsomukesh&layout=compact&theme=yeblu&hide_border=true&&langs_count=10" /></a>
 
-### Top Usage Languages:
-
-<a href="https://github.com/mukulsomukesh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulsomukesh&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
-
+</p>
 ---
 
 ### Current Month Activity:
