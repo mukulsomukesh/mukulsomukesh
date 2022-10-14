@@ -1,10 +1,23 @@
+<!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mukul+Jatav+👋+;Full+Stack+Web+Developer...&center=true&size=25">
-  </a>
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Mukul Jatav
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
-![](https://komarev.com/ghpvc/?username=mukulsomukesh&color=brightgreen)
+<br>
+
+<p align="left">
+    <a href="https://github.com/Omgupta12">
+        <img src="https://komarev.com/ghpvc/?username=mukulsomukesh&label=Profile%20views&color=0e75b6&style=flat" alt="Omgupta12" />
+    </a>
+    <a href="https://github.com/Omgupta12?tab=followers">
+        <img src="https://img.shields.io/github/followers/mukulsomukesh?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br>
+
 
 - 🔭 Focusing on FullStack.😎
 - 🌱 I’m currently learning React-JS ❤
@@ -15,13 +28,14 @@
 
 ---
 
-### Connect With Me:
+### Let's Connect:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prince.vohra.522)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-jatav/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mukulsomukesh/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mukulsomukesh)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-jatav/) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukuljatav1010@gmail.com)
-
+     <a href="https://omgupta12.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://my-portfolio-ashen-one.vercel.app/" />
+    </a>
 ---
 
 ### Languages and Tools:
