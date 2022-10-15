@@ -64,18 +64,16 @@
 
 <p align="left">
     <a href="https://github.com/mukulsomukesh/GIva" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Giva Clone&color=000000&logo=Bluefly&logoColor=FFFFFF&label=" alt="Bluefly-Clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Giva Clone&color=1BB91F&logo=Bluefly&logoColor=FFFFFF&label=" alt="Bluefly-Clone" />
     </a>
     <a href="https://github.com/dikshaa2000/shop.com/tree/master" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shop Clone&color=1BB91F&logo=Gymwolf&logoColor=FFFFFF&label=" alt="Gymwolf-Clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shop Clone&color=FD3A5C&logo=Gymwolf&logoColor=FFFFFF&label=" alt="shop.com clone" />
     </a>
-
     <a href="https://github.com/mukulsomukesh/youthful-dogs-6115" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cricinfo Clone&color=1BB91F&logo=Gymwolf&logoColor=FFFFFF&label=" alt="Gymwolf-Clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cricinfo Clone&color=840010&logo=Gymwolf&logoColor=FFFFFF&label=" alt="cricinfo clone" />
     </a>
-
     <a href="https://github.com/mukulsomukesh/Tic_Tac_toe" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tick-Tack-Toe Game&color=7A1FA2&logo=tick-tack-toe&logoColor=FFFFFF&label=" alt="Tick-Tack-Toe-Game" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tick-Tack-Toe Game&color=1a78f4&logo=tick-tack-toe&logoColor=FFFFFF&label=" alt="Tick-Tack-Toe-Game" />
     </a>
    
 </p>
