@@ -62,17 +62,14 @@
 
 
 <p align="left">
-    <a href="https://github.com/mukulsomukesh/file-sharing-app" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=File Sharing App&color=1BB91F&logo=Bluefly&logoColor=FFFFFF&label=" alt="Bluefly-Clone" />
+    <a href="https://github.com/mukulsomukesh/chat-application" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat Application&color=1BB91F&logo=Bluefly&logoColor=FFFFFF&label=" alt="Bluefly-Clone" />
     </a>
-    <a href="https://github.com/dikshaa2000/shop.com/tree/master" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shop Clone&color=FD3A5C&logo=Gymwolf&logoColor=FFFFFF&label=" alt="shop.com clone" />
+    <a href="https://github.com/mukulsomukesh/file-sharing-app" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=File Sharing Application&color=FD3A5C&logo=Gymwolf&logoColor=FFFFFF&label=" alt="shop.com clone" />
     </a>
     <a href="https://github.com/mukulsomukesh/trendy-vibes" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Trendy Vibes&color=840010&logo=Gymwolf&logoColor=FFFFFF&label=" alt="cricinfo clone" />
-    </a>
-    <a href="https://github.com/mukulsomukesh/1mgClone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=1MG Clone&color=1a78f4&logo=tick-tack-toe&logoColor=FFFFFF&label=" alt="Tick-Tack-Toe-Game" />
     </a>
    
 </p>
