@@ -11,7 +11,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- Aspiring Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and is always ready for learning new things 😃. I focus on writing clean, elegant and efficient code ✨.</i>
 </h3>
 
 <br>
