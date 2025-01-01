@@ -10,9 +10,15 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3>
-    <i>- I'm a passionate Full Stack  developer skilled in MERN stack who likes to do experiments and is always ready for learning new things 😃. I focus on writing clean, elegant and efficient code ✨.</i>
-</h3>
+<i> 👋 Hi, I’m Mukul Jatav, a software developer driven by the challenge of building scalable, impactful solutions. </i>
+
+<i> 💻 Tech Stack: MERN | Next.js | Node.js | PostgreSQL | AWS </i>
+
+<i> 🚀 Currently leading the development of a B2B procurement platform, transitioning it from outsourced to in-house with a dedicated team of developers. </i>
+
+<i> 🎯 Passionate about turning ideas into reality, learning new technologies, and contributing to projects that solve real-world problems. </i>
+
+<i> 🌱 On a mission to create innovative tools and someday build a tech company developers dream of joining. </i>
 
 <br>
 
