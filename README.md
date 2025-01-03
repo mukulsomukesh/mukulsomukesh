@@ -12,13 +12,15 @@
 
 <i> 👋 Hi, I’m Mukul Jatav, a software developer driven by the challenge of building scalable, impactful solutions. </i>
 
+<i> 🌱 Simplicity in code, design, and execution is my mantra. Let’s turn ideas into reality!  </i>
+
 <i> 💻 Tech Stack: MERN | Next.js | Node.js | PostgreSQL | AWS </i>
 
 <i> 🚀 Currently leading the development of a B2B procurement platform, transitioning it from outsourced to in-house with a dedicated team of developers. </i>
 
 <i> 🎯 Passionate about turning ideas into reality, learning new technologies, and contributing to projects that solve real-world problems. </i>
 
-<i> 🌱 On a mission to create innovative tools and someday build a tech company developers dream of joining. </i>
+<i> 🌱 On a journey to build innovative tools and create a tech company where other developers aspire to work. </i>
 
 <br>
 
